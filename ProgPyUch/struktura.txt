@@ -1,0 +1,16 @@
+ProgPyUch/
+	start.py
+	struktura.txt
+	base_modul/
+		core_modul.py
+	logika_modul/
+		logika_1.py
+	oformlenie_modul/
+		top_menu.py
+		oformlenie_okno.py
+	pechat_modul/
+		pechat_win.py
+		pechat_lin.py
+	spavka_modul/
+		Инструкция администратора.odt
+		Инструкция пользователя.odt
